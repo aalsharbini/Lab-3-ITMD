@@ -200,11 +200,13 @@ html {
 }
 
 h1 {
+  font-family: Chelsea Market;
   text-align: center;
   margin: 1.182em 0 ;
 }
 
 p {
+  font-family: Satisfy;
   line-height: 1.182em;
   padding-bottom: 1.182em;
   padding-top: 1.182em;
