@@ -192,26 +192,13 @@ img, audio, video {
 */
 
 html {
-  font-family: 'Gemunu Libre', sans-serif;
+  font-family: Chelsea Market;
   font-size: 1.375em; /* 22px */
   line-height: 1.182em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
 }
-.container {
-    width: 400px; 
-    height: 400px; 
-    margin: 8% auto; 
-    background: #f9f9f9; 
-    border-radius: 5px; 
-    position: relative; 
-}
-.container form {
-    width: 280px;
-    position: absolute; 
-    top: 100px; 
-    left: 40px;
-}
+
 h1 {
   text-align: center;
   margin: 1.182em 0 ;
