@@ -198,7 +198,14 @@ html {
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
 }
-
+.container {
+    width: 400px; 
+    height: 400px; 
+    margin: 8% auto; 
+    background: #f9f9f9; 
+    border-radius: 5px; 
+    position: relative; 
+}
 h1 {
   text-align: center;
   margin: 1.182em 0 ;
